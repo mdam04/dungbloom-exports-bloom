@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="flex flex-col gap-3">
               <div className="flex items-start gap-2 text-sm">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span>Tamil Nadu, India</span>
+                <span>5/113, Earkolpatti, Dharmapuri 636810, Tamil Nadu, India</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <Mail className="h-4 w-4 flex-shrink-0" />
@@ -62,8 +62,8 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <a href="tel:+919XXXXXXXXX" className="hover:text-primary transition-colors">
-                  +91 9XXXXXXXXX
+                <a href="tel:+919551805459" className="hover:text-primary transition-colors">
+                  +91 9551805459
                 </a>
               </div>
             </div>

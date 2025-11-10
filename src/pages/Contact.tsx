@@ -107,7 +107,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Address</h3>
-                      <p className="text-muted-foreground">Tamil Nadu, India</p>
+                      <p className="text-muted-foreground">5/113, Earkolpatti, Dharmapuri 636810, Tamil Nadu, India</p>
                     </div>
                   </div>
 
@@ -133,10 +133,10 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Phone</h3>
                       <a 
-                        href="tel:+919XXXXXXXXX" 
+                        href="tel:+919551805459" 
                         className="text-primary hover:underline block"
                       >
-                        +91 9XXXXXXXXX
+                        +91 9551805459
                       </a>
                       <p className="text-sm text-muted-foreground mt-1">
                         WhatsApp available
